@@ -2645,12 +2645,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.509375"
-     inkscape:cx="1022.6955"
-     inkscape:cy="739.80052"
+     inkscape:zoom="0.72036503"
+     inkscape:cx="617.83204"
+     inkscape:cy="539.79311"
      inkscape:document-units="px"
      inkscape:current-layer="g1828"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -2740,7 +2740,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://artlibre.org/licence/lal" />
       </cc:Work>
@@ -2784,23 +2784,7 @@
      inkscape:groupmode="layer"
      transform="translate(0,211.66666)">
     <g
-       id="g3366"
-       transform="translate(-25.570276,0.06148156)">
-      <path
-         id="path2225"
-         d="m 269.51792,-57.953337 10.26924,10.269239 h -10.08908 l -16.93524,-16.93524 h 10.47823 a 8.4676182,8.4676182 0 0 0 0,-16.935234 h -3.41587 l -8.46762,-8.46762 h 11.49434 a 16.935236,16.935236 0 0 1 16.93524,16.93524 c 0,6.867774 -3.02673,12.251017 -10.26924,15.133615 z"
-         class="b"
-         inkscape:connector-curvature="0"
-         style="fill:#091440;fill-opacity:1;stroke-width:0.18016207" />
-      <path
-         id="path2227"
-         d="M 239.97134,-79.752953 229.7021,-90.022192 h 10.09808 l 16.93524,16.93524 h -10.47823 a 8.4676182,8.4676182 0 1 0 0,16.935234 h 3.40687 l 8.46761,8.46762 h -11.49434 a 16.935236,16.935236 0 0 1 -16.93523,-16.93524 c 0,-6.867774 3.02672,-12.251017 10.26924,-15.133615 z"
-         class="b"
-         inkscape:connector-curvature="0"
-         style="fill:#091440;fill-opacity:1;stroke-width:0.18016207" />
-    </g>
-    <g
-       transform="matrix(0.05410701,0,0,-0.05410701,279.38974,-46.033062)"
+       transform="matrix(0.10736415,0,0,-0.10736415,229.84307,-44.634729)"
        inkscape:label="dcr - icons - 020718"
        id="g3414">
       <g
