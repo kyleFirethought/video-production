@@ -7,9 +7,9 @@
 **main idea**: Pi is the _ideal_ infrastructure for the self-governance of a cryptocurrency.
 
 - Why?
-  - Solves technical challenges associated with self-governance of a cryptocurrency
+  - Solves technical and social challenges associated with self-governance of a cryptocurrency
 - what is self-governance? _(or what is needed to be successful?)_
-  - ???
+  - governance of the chain, protocol and the spending of the project fund - which is paying the wages of the people who work on the project
 - technical challenges and how theyre solved
   - where to store data in a manipulation resistant way?
     - the blockchain, duh... 😎 ❌
@@ -22,8 +22,8 @@
   - How to make the platform open, but resistant to data-bloat (i.e. spam posts, fake accounts, low quality posts) ?
     - account creation fees
     - posting fees
-      - _proposals and comments or just proposals?_
-      - _where do fees go?_
+      - per proposal
+        - where the fees go not yet decided 100% but to the project fund seems most likely
     - quality control
       - proposal guidelines and human review process
         - Introduces mode of censorship ⚠️
