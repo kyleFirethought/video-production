@@ -4,14 +4,14 @@
 **Estimated Runtime:** 03:20
 
 **Transition Style:**
-If concurrent scenes contain one or more of the same icons, then they can transitionally "morph" into one another. Otherwise, a simple "blink" on/off transition can be used.
+If following scene has one or more of the same icons, then transition should serve to link the two scenes in some way. Otherwise, a simple "blink" on/off transition can be used.
 
 No. | VISUAL | DESCRIPTION | TIME
 :-: | :----: | :---- | :--:
-1 | ![Shot 1](../decredPoS/img/shot_1.svg) | **VO:**<br />Decred Proof-of-stake<br />**action:**<br />Decred logo and PoW icon fade out. Ticket icon moves into position for next scene. | 00:03 
+1 | ![Shot 1](../decredPoS/img/shot_1.svg) | **VO:**<br />Decred Proof-of-stake<br />**action:**<br />Ticket icon is highlighted. | 00:03 
 2 | ![Shot 2](../decredPoS/img/shot_2.svg) | **VO:**<br />is an on-chain decision making system<br />**action:**<br />"on-chain" and block icon appear first then "decision" and votes icon. They are then connected by the line. | 00:07 
 3 | ![Shot 3](../decredPoS/img/shot_3.svg) | **VO:**<br />Where participants purchase tickets for a chance to have their voice heard.<br />**action:**<br />Wallet icon appears pushing the schematic to the left, followed by the purchase ticket icon, pushing the schematic down. A line connects them and the schematic cycles. | 00:12 
-4 | Ultra simplified wireframe of wallet software with `spendable dcr balance`, `current ticket price`, `# owned tickets` and greyed out `purchase ticket` button. | **VO:**<br />to purchase a ticket, participants must have enough Decred to cover the current ticket price.<br />**action:**<br />`spendable balance` and `ticket price` 'sync'. The `balance` is higher than the `price` and the `purchase ticket` button turns from grey to green. | 00:21 
+4 | ![Shot 4](../decredPoS/img/shot_4.svg) | **VO:**<br />to purchase a ticket, participants must have enough Decred to cover the current ticket price.<br />**action:**<br />`spendable balance` and `ticket price` 'sync'. The `balance` is higher than the `price` and the `purchase ticket` button turns from grey to green. | 00:21 
 5 | ![Shot 5](../decredPoS/img/shot_5.svg) | **VO:**<br />Every 144 blocks, a new ticket price is calculated by an algorithm to keep the total number of active tickets equal to the target size.<br />**action:**<br />Timer counts up to 144 blocks and activates the algorithm. Price is lowered. Timer counts up again, then price is increased. | 00:32 
 6 | Same as scene 4. | **VO:**<br />If the participant's balance is high enough, a portion equal to the current ticket price may be locked in exchange for a ticket. <br />**action:**<br />Purchase ticket button is pressed. `Spendable balance` is subtracted by `ticket price.` `Ticket count` increases by 1. | 00:42 
 7 | Send tx view wireframe showing `total balance` and `spendable balance` | **VO:**<br />Locked funds can not be spent for the life of the corresponding ticket.<br />**action:**<br />A tx with an amount less than the total balance but greater than the spendable balance is attempted. An error message appears saying `insufficient spendable funds` | 00:48 
