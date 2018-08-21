@@ -16,7 +16,7 @@
    viewBox="0 0 507.99997 285.75001"
    version="1.1"
    id="svg2052"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="shot_13.svg"
    inkscape:export-filename="C:\Users\jzs\Desktop\schematic_3.png"
    inkscape:export-xdpi="64"
@@ -3144,9 +3144,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.26861979"
-     inkscape:cx="572.50665"
-     inkscape:cy="466.65681"
+     inkscape:zoom="0.37988575"
+     inkscape:cx="976.98125"
+     inkscape:cy="473.41025"
      inkscape:document-units="px"
      inkscape:current-layer="g7061"
      showgrid="true"
@@ -3299,12 +3299,13 @@
        id="text3999"
        y="-43.918449"
        x="96.891823"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#091440;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#091440;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         y="-34.658031"
+         y="-43.918449"
          x="96.891823"
          sodipodi:role="line"
-         id="tspan3997" /></text>
+         id="tspan3997"
+         style="font-size:10.58333302px;line-height:1.25"> </tspan></text>
     <g
        aria-label="block"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#091440;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -3408,20 +3409,20 @@
     <g
        id="g2084"
        transform="matrix(0.04980838,0,0,-0.04980838,263.96167,-57.91777)"
-       style="fill:#091440;fill-opacity:1">
+       style="fill:#c4cbd2;fill-opacity:1">
       <path
          d="M 0,0 0,25 -149.759,25 -400,25 -400,0 -149.759,0 Z"
-         style="fill:#091440;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#c4cbd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path2086"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="g2088"
        transform="matrix(0.04980838,0,0,-0.04980838,263.96167,-54.820725)"
-       style="fill:#c4cbd2;fill-opacity:1">
+       style="fill:#091440;fill-opacity:1">
       <path
          d="m 0,0 0,62.179 -149.759,0 -250.241,0 0,-62.179 0,-24.821 250.241,0 149.759,0 z"
-         style="fill:#c4cbd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#091440;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path2090"
          inkscape:connector-curvature="0" />
     </g>
@@ -3618,34 +3619,37 @@
        id="text9912"
        y="-129.61594"
        x="34.243118"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#091440;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#091440;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          y="-129.61594"
          x="34.243118"
          sodipodi:role="line"
-         id="tspan9910">buy ticket</tspan></text>
+         id="tspan9910"
+         style="font-size:10.58333302px;line-height:1.25">buy ticket</tspan></text>
     <text
        transform="translate(0,211.66666)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#091440;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#091440;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="219.10626"
        y="-96.841072"
        id="text9916"><tspan
          id="tspan9914"
          sodipodi:role="line"
          x="219.10626"
-         y="-96.841072">dcr balance</tspan></text>
+         y="-96.841072"
+         style="font-size:10.58333302px;line-height:1.25">dcr balance</tspan></text>
     <text
        transform="translate(0,211.66666)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#091440;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#091440;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="403.71011"
        y="-2.580478"
        id="text9920"><tspan
          id="tspan9918"
          sodipodi:role="line"
          x="403.71011"
-         y="-2.580478">ticket price</tspan></text>
+         y="-2.580478"
+         style="font-size:10.58333302px;line-height:1.25">ticket price</tspan></text>
   </g>
   <style
      type="text/css"

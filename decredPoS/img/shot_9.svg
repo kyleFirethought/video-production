@@ -3013,37 +3013,38 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.36018252"
-     inkscape:cx="956.44239"
-     inkscape:cy="597.82184"
+     inkscape:zoom="0.509375"
+     inkscape:cx="201.91482"
+     inkscape:cy="595.42864"
      inkscape:document-units="px"
-     inkscape:current-layer="g7061"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1278"
+     inkscape:window-width="2541"
      inkscape:window-height="991"
-     inkscape:window-x="1272"
+     inkscape:window-x="9"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:bbox-nodes="false"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-others="false"
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="true"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:bbox-paths="false"
+     inkscape:bbox-paths="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-center="false"
      inkscape:snap-object-midpoints="false"
      inkscape:lockguides="true"
      inkscape:object-nodes="false"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     showborder="true">
     <inkscape:grid
        type="xygrid"
        id="grid1237"
@@ -3109,7 +3110,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://artlibre.org/licence/lal" />
       </cc:Work>
@@ -3155,7 +3156,7 @@
     <polygon
        style="display:inline;fill:#091440;fill-opacity:1;stroke:#ffc74d;stroke-width:3.58054566;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        class="st7"
-       points="875.4,-362.5 824.8,-450 774.3,-362.5 "
+       points="774.3,-362.5 875.4,-362.5 824.8,-450 "
        id="polygon7538-5"
        transform="matrix(0.24134007,0,0,0.24134007,-186.12139,-102.19991)"
        clip-path="url(#SVGID_2_)" />
@@ -3284,7 +3285,7 @@
     </g>
     <path
        style="fill:none;stroke:#8997a5;stroke-width:0.86412919;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4517)"
-       d="m 378.88998,-78.656733 0,9.790402 h -99.66925"
+       d="m 378.88998,-78.656733 v 9.790402 h -99.66925"
        id="path4495"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
@@ -3656,19 +3657,22 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="border"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="text_backup"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:none">
     <text
-       transform="translate(0,211.66666)"
        id="text1748"
-       y="19.218279"
+       y="199.13136"
        x="159.63048"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#091440;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#091440;fill-opacity:1;stroke-width:0.26458332"
-         y="19.218279"
+         y="199.13136"
          x="159.63048"
          id="tspan1746"
          sodipodi:role="line">cast votes</tspan></text>
