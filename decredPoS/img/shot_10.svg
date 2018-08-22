@@ -17,7 +17,7 @@
    version="1.1"
    id="svg2052"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="shot_11.svg"
+   sodipodi:docname="shot_10.svg"
    inkscape:export-filename="C:\Users\jzs\Desktop\wireframe_purchaseTicket.png"
    inkscape:export-xdpi="64"
    inkscape:export-ydpi="64"
@@ -2965,7 +2965,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.42771674"
-     inkscape:cx="784.37685"
+     inkscape:cx="364.70658"
      inkscape:cy="623.27686"
      inkscape:document-units="px"
      inkscape:current-layer="g7061"
@@ -2973,11 +2973,11 @@
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1278"
-     inkscape:window-height="991"
-     inkscape:window-x="1272"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
@@ -3825,24 +3825,24 @@
          y="-33.333923">VSP</tspan></text>
     <text
        id="text6575"
-       y="29.940386"
-       x="153.27516"
+       y="30.17322"
+       x="140.63106"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#091440;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         y="29.940386"
-         x="153.27516"
+         y="30.17322"
+         x="140.63106"
          sodipodi:role="line"
-         id="tspan6573">PoS Node</tspan></text>
+         id="tspan6573">network node</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#091440;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="303.53046"
-       y="30.17322"
+       x="297.41742"
+       y="30.194386"
        id="text6579"><tspan
          id="tspan6577"
          sodipodi:role="line"
-         x="303.53046"
-         y="30.17322">PoW node</tspan></text>
+         x="297.41742"
+         y="30.194386">miner node</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
