@@ -17,7 +17,7 @@
    version="1.1"
    id="svg2052"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="shot_17.svg"
+   sodipodi:docname="shot_18.svg"
    inkscape:export-filename="C:\Users\jzs\Desktop\wireframe_purchaseTicket.png"
    inkscape:export-xdpi="64"
    inkscape:export-ydpi="64"
@@ -2889,11 +2889,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.509375"
-     inkscape:cx="931.80178"
-     inkscape:cy="668.44125"
+     inkscape:zoom="0.72036503"
+     inkscape:cx="1050.0112"
+     inkscape:cy="726.76436"
      inkscape:document-units="px"
-     inkscape:current-layer="g7061"
+     inkscape:current-layer="text1623"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
@@ -3602,12 +3602,12 @@
          id="path2012"
          inkscape:connector-curvature="0" />
       <path
-         d="m 359.26524,-72.064926 v -0.715699 h 1.90853 v -4.854304 h -1.48326 v -0.560112 q 0.39415,-0.05186 0.69495,-0.124469 0.3008,-0.07261 0.54974,-0.155587 0.24894,-0.09335 0.45639,-0.207449 h 0.64309 v 5.901921 h 1.72183 v 0.715699 z"
+         d="m 365.75808,-72.194783 v -0.715699 h 1.90853 v -4.854304 h -1.48326 v -0.560112 q 0.39415,-0.05186 0.69495,-0.124469 0.3008,-0.07261 0.54974,-0.155587 0.24894,-0.09335 0.45639,-0.207449 h 0.64309 v 5.901921 h 1.72183 v 0.715699 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.37244415px;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8997a5;fill-opacity:1;stroke-width:0.25931111"
          id="path2014"
          inkscape:connector-curvature="0" />
       <path
-         d="m 365.23572,-72.064926 v -0.50825 q 1.12022,-0.985382 1.88778,-1.732198 0.77793,-0.757189 1.17209,-1.35879 0.40452,-0.601602 0.40452,-1.151342 0,-0.570484 -0.35266,-0.923147 -0.34229,-0.363036 -1.07874,-0.363036 -0.46676,0 -0.87128,0.228194 -0.39415,0.228194 -0.7157,0.560112 l -0.49788,-0.487505 q 0.45639,-0.446015 0.97501,-0.726071 0.51863,-0.280056 1.21358,-0.280056 0.66384,0 1.14097,0.248939 0.4875,0.238566 0.74681,0.684581 0.26969,0.435643 0.26969,1.0165 0,0.622346 -0.38378,1.265438 -0.38378,0.632719 -1.07874,1.338045 -0.68458,0.694954 -1.57661,1.504005 0.31117,-0.02075 0.62235,-0.03112 0.31117,-0.02075 0.61197,-0.02075 h 2.16784 v 0.736444 z"
+         d="m 359.39216,-72.064926 v -0.50825 q 1.12022,-0.985382 1.88778,-1.732198 0.77793,-0.757189 1.17209,-1.35879 0.40452,-0.601602 0.40452,-1.151342 0,-0.570484 -0.35266,-0.923147 -0.34229,-0.363036 -1.07874,-0.363036 -0.46676,0 -0.87128,0.228194 -0.39415,0.228194 -0.7157,0.560112 l -0.49788,-0.487505 q 0.45639,-0.446015 0.97501,-0.726071 0.51863,-0.280056 1.21358,-0.280056 0.66384,0 1.14097,0.248939 0.4875,0.238566 0.74681,0.684581 0.26969,0.435643 0.26969,1.0165 0,0.622346 -0.38378,1.265438 -0.38378,0.632719 -1.07874,1.338045 -0.68458,0.694954 -1.57661,1.504005 0.31117,-0.02075 0.62235,-0.03112 0.31117,-0.02075 0.61197,-0.02075 h 2.16784 v 0.736444 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.37244415px;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8997a5;fill-opacity:1;stroke-width:0.25931111"
          id="path2016"
          inkscape:connector-curvature="0" />
