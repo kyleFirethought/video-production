@@ -1,23 +1,23 @@
 ## Decred In Depth: On-chain Governance
 ### Voice Over Script
 
-Without a form of inclusive on-chain governance, pure proof-of-work currencies like Bitcoin are at the mercy of their miners.  With no way to keep proof-of-work miners in check *or* agree on consensus rule changes, Bitcoin leaves itself open to 51% attacks and community splitting hard forks.
+Without a form of on-chain governance, pure proof-of-work currencies like Bitcoin are at the mercy of their miners. With no way to keep proof-of-work miners in check *or* agree on consensus rule changes, Bitcoin leaves itself open to 51% attacks and community splitting hard forks.
 
-**Decred's** **Proof-of-Stake Voting** system, (which is *one half* of its hybrid proof-of-work - proof-of-stake protocol), puts power in the hands of its stakeholders, not its miners. By participating in proof-of-stake voting, stakeholders have the ability to stop 51% attacks, prevent unwanted hard forks, and shape the future of the project.
+**Decred's** **Proof-of-Stake Voting** system, (which is part of its hybrid proof-of-work - proof-of-stake protocol), puts power in the hands of its stakeholders, not its miners. By participating in proof-of-stake voting, stakeholders can stop 51% attacks, prevent unwanted hard forks, and shape the future of the project.
 
 Here's how it works:
 
 Decred Proof-of-stake voting is a ticket-based lottery system.
 
-Stakeholders prove their stake by purchasing tickets. In return, they get a chance to participate in the governance of the project through casting votes. The higher a user's stake, the more tickets they can buy, the more votes they can cast.
+Stakeholders prove their stake by purchasing tickets. In return, they get a chance to participate in the governance of the project by casting votes. The more tickets a stakeholder can buy the more votes they can cast.
 
-The *price* of a ticket is automatically adjusted by an algorithm at the end of each **ticket window** or every 144 blocks; ( about 12 hours, given Decred's average **block time** of roughly 5 minutes.) This keeps the number of *live* tickets in the system as close as possible to the target 40,960 tickets. Since *each* block can contain up to 20 new tickets, there are 2,880 tickets up for grabs at the current price, per ticket window.
+The *price* of a ticket is automatically adjusted by an algorithm at the end of each **ticket window** of 144 blocks; ( about 12 hours, given Decred's average **block time** of roughly 5 minutes.) This keeps the number of *live* tickets in the system as close as possible to the target 40,960 tickets. Since *each* block can contain up to 20 new tickets, there are 2,880 tickets up for grabs at the current price, per ticket window.
 
 A ticket's life *begins* when it is first mined into a block, and *ends* when it is drawn from the ticket pool.
 
 Before it is added to the ticket pool, a ticket must go through the immature stage. During this stage, the stakeholder's funds used to purchase the ticket are locked, but the ticket is not yet eligible to be drawn.
 
-After 240 blocks (or about 20 hours), immature tickets become live and are added to the **ticket pool**. 
+After 256 blocks (or about 20 hours), immature tickets become live and are added to the **ticket pool**. 
 
 With each block, miners randomly draw 5 tickets from the ticket pool.
 
@@ -31,13 +31,13 @@ Block votes allow stakeholders to keep proof-of-work miners in check. The 5 bloc
 
 Consensus votes allow stakeholders to prevent unwanted hard-forks through a two stage process where stakeholders vote for or against changes to Decred's consensus rules.
 
-Before the consensus voting process can begin, a majority of nodes must upgrade to the newly released software version containing the proposed rule change. The update threshold is met when 95% of the 1000 most recent blocks and 75% of the proof of stake votes within *one* **stake version interval**, 2016 blocks (or about 1 week), have the latest version. 
+Before the consensus voting process can begin, a majority of nodes must update to the newly released software version containing the dormant rule change. The update threshold is met when 95% of the 1000 most recent blocks were found by updated miners and 75% of the proof of stake votes within *one* **stake version interval**, 2016 blocks (or about 1 week), were cast by updated voting wallets. 
 
 After the update threshold is met voting will begin on the *first block* of the next **rule change interval**. 
 
-Each rule change interval spans 8,064 blocks (or about 4 weeks) during which consensus votes for any active rule change proposals are collected.  A revote occurs If 90% of votes collected during the entire interval are abstaining.  Else, if 75% of non-abstaining votes signal yes, then the proposed rule changes will be activated at the end of the *next* rule change interval.
+Each rule change interval spans 8,064 blocks (or about 4 weeks) during which votes for any active rule change processes are collected.  A revote occurs If 90% of votes collected during the entire interval are abstaining.  Else, if 75% of non-abstaining votes signal yes, then the proposed rule changes will be activated at the end of the *next* rule change interval.
 
-After a stakeholder's ticket is drawn and a 240 block waiting period has passed, the funds used to purchase the ticket are unlocked and a portion of the Decred block reward is credited to their account as compensation for their active participation.
+After a stakeholder's ticket is drawn and a 256 block waiting period has passed, the funds used to purchase the ticket are unlocked and a portion of the Decred block reward is credited to their account as compensation for their active participation.
 
 While their live tickets are waiting in the ticket pool, stakeholders also have access to proposal voting through Politeia, Decred's chain-anchored proposal system. Through Politeia anyone can shape the future of Decred by proposing new ideas for stakeholder consideration in an off-chain yet cryptographically verifiable manner.
 
