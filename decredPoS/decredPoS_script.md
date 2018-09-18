@@ -11,7 +11,7 @@ Decred Proof-of-stake voting is a ticket-based lottery system.
 
 Stakeholders prove their stake by purchasing tickets. In return, they get a chance to participate in the governance of the project by casting votes. The more tickets a stakeholder can buy the more votes they can cast.
 
-The *price* of a ticket is automatically adjusted by an algorithm at the end of each **ticket window** of 144 blocks; ( about 12 hours, given Decred's average **block time** of roughly 5 minutes.) This keeps the number of *live* tickets in the system as close as possible to the target 40,960 tickets. Since *each* block can contain up to 20 new tickets, there are 2,880 tickets up for grabs at the current price, per ticket window.
+The *price* of a ticket is automatically adjusted by an algorithm at the end of each **ticket window** of 144 blocks; ( about 12 hours, given Decred's average **block time** of roughly 5 minutes.) This keeps the number of *live* tickets in the system as close as possible to the target 40,960 tickets.
 
 A ticket's life *begins* when it is first mined into a block, and *ends* when it is drawn from the ticket pool.
 
@@ -21,9 +21,9 @@ After 256 blocks (or about 20 hours), immature tickets become live and are added
 
 With each block, miners randomly draw 5 tickets from the ticket pool.
 
-How long an individual ticket will wait in the pool before being drawn is entirely up to chance, but current data shows the average waiting time is 30 days.
+How long an individual ticket will wait in the pool before being drawn is entirely up to chance, but current data shows the average waiting time is 30 days. In rare circumstances, it is possible for a ticket to never be drawn. This occurs with less than 1 percent of all tickets and results in a full refund of the expired ticket's price.
 
-Once a stakeholder's ticket is drawn, their voting ballot must be broadcast to the network from either their own *self-hosted* **voting wallet** or a designated **voting service provider** for inclusion the next block. If a ballot is not broadcast quickly, its votes may never be cast. This occurs in less than 2% of cases and is caused by bad internet connections and network races.
+Once a stakeholder's ticket is drawn, their voting ballot must be broadcast to the network from either their own *self-hosted* **voting wallet** or a designated **voting service provider** for inclusion the next block. If a ballot is not broadcast quickly enough, it's intended block may be mined without it. This occurs in less than 2% of cases and results in a full refund of the missed ticket's price.
 
 A ticketholder's ballot will contain one **block vote** and zero to many **consensus votes** to be recorded *on-chain*.
 
@@ -37,9 +37,11 @@ After the update threshold is met voting will begin on the *first block* of the 
 
 Each rule change interval spans 8,064 blocks (or about 4 weeks) during which votes for any active rule change processes are collected.  A revote occurs If 90% of votes collected during the entire interval are abstaining.  Else, if 75% of non-abstaining votes signal yes, then the proposed rule changes will be activated at the end of the *next* rule change interval.
 
-After a stakeholder's ticket is drawn and a 256 block waiting period has passed, the funds used to purchase the ticket are unlocked and a portion of the Decred block reward is credited to their account as compensation for their active participation.
+After a stakeholder's ballot has been included in a block and a 256 block immaturity phase has passed, the price of the voted ticket is fully refunded and a portion of the Decred block reward is credited to their account as compensation for their active participation.
 
-While their live tickets are waiting in the ticket pool, stakeholders also have access to proposal voting through Politeia, Decred's chain-anchored proposal system. Through Politeia anyone can shape the future of Decred by proposing new ideas for stakeholder consideration in an off-chain yet cryptographically verifiable manner.
+On-chain voting allows stakeholders to govern the chain, but what about governance of the project itself?
+
+ While their live tickets are waiting in the ticket pool, stakeholders have access to proposal voting through Politeia, Decred's chain-anchored proposal system. Through Politeia anyone can shape the future of Decred by proposing new ideas for stakeholder consideration in an off-chain yet cryptographically verifiable manner.
 
 To begin participating in the governance of Decred, download Decrediton at Decred.org and up your stake at any one of the many supporting exchanges.
 
